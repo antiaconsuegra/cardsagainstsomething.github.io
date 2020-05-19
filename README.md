@@ -1,1 +1,1 @@
-# cardsagainstsomething.github.io
+# http://cardsagainstsomething.github.io
